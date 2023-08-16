@@ -1,0 +1,7 @@
+learning branching and merging  
+git branch workplot 
+git branch  
+git checkout master 
+making a file inside master branch  by  doing 
+git checkout master
+touch chapter4.txt
